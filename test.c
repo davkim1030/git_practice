@@ -1,7 +1,8 @@
 #include <stdio.h>
+#include <stdlib.h>
 
-int main(void)
+int main(int c, char *v[])
 {
-	printf("Hello WOlrd!\n");
-	return (0);
+	printf("Hello1Olrd!\n");
+	return (-1);
 }
