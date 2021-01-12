@@ -3,6 +3,6 @@
 
 int main(int c, char *v[])
 {
-	printf("Hello1Olrd!\n");
-	return (-1);
+	printf("Hello WOlrd!\n");
+	return (0);
 }
